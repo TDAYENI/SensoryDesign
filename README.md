@@ -1,6 +1,6 @@
 # Multi-Sensor Positioning System Design
 
-The proposal below provides a positional solution for museum customers, providing a guided tour while maintaining social distancing.
+The proposal below provides a positional solution for Museums, providing customers with a guided tour while maintaining social distancing.
 
 The positional technologies and methods employed for an integrated solution include:
 +	Ultra-wideband 
